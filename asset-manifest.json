@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-events-state-dropdown/static/css/main.fdd0515a.css",
+    "main.js": "/ra-events-state-dropdown/static/js/main.6b94899a.js",
+    "static/js/787.ec743f25.chunk.js": "/ra-events-state-dropdown/static/js/787.ec743f25.chunk.js",
+    "index.html": "/ra-events-state-dropdown/index.html",
+    "main.fdd0515a.css.map": "/ra-events-state-dropdown/static/css/main.fdd0515a.css.map",
+    "main.6b94899a.js.map": "/ra-events-state-dropdown/static/js/main.6b94899a.js.map",
+    "787.ec743f25.chunk.js.map": "/ra-events-state-dropdown/static/js/787.ec743f25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fdd0515a.css",
+    "static/js/main.6b94899a.js"
+  ]
+}
